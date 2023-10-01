@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="hero">
+        <nav>
+            <ul>
+                <li><a href = "#">HOME</a></li>
+                <li><a href = "#">ABOUT</a></li>
+                <li><a href = "#">PORTFOLIO</a></li>
+                <li><a href = "#">SERVICES</a></li>
+                <li><a href = "#">HIRE ME</a></li>
+            </ul>
+        </nav>
+<div class = detel > 
+    <h1>
+        Hi, Myself Reshoo <span>Nehru</span>
+        and I am a Software Engineer
+    </h1>
+    <p>This is my Portfolio website
+        <br> Details and work Experience
+    </p>
+    <a href="#">DOWNLOAD CV</a>
+    <button class="btn">Github</button>
+</div>
+<div class ="images">
+    <img src="graph.png" class="shape">
+    <img src="girl.png" class="girl">
+
+</div>
+    </div>
+    
+    <section class="secondSection">
+        <h1>Skills</h1>
+
+    <div class="box">
+        <div class="vertical">
+            <img class="imagetop" src="html.png">
+            <div class="verticaltitle">HTML Developer</div>
+        </div >
+        <div class="vertical">
+            <img class="imagetop" src="css.png">
+            <div class="verticaltitle">CSS</div>
+        </div>
+        <div class="vertical">
+            <img class="imagetop" src="js.png">
+            <div class="verticaltitle">javascript</div>
+
+        </div>
+        <div class="vertical">
+            <img class="imagetop" src="java.png">
+            <div class="verticaltitle">java</div>
+
+        </div>
+        <div class="vertical">
+            <img class="imagetop" src="mysql.png">
+            <div class="verticaltitle">My Sql</div>
+
+        </div>
+    </div>
+    </section>
+
+    <footer>
+        <div class="footer">
+            <div class="footerfirst">
+                <h3>Reshoo's Portfolio</h3>
+            </div>
+            <div class="footersecond">
+                <ul>
+                    <li>Home</li>
+                    <li>About</li>
+                    <li>Portfolio</li>
+                </ul>
+            </div>
+            <div class="footerthird">
+                <ul>
+                    <li>Linkdin</li>
+                    <li>Services</li>
+                    <li>Contact</li>
+                </ul>
+            </div>
+            <div class="footerfourth">
+                <ul>
+                    <li>Gmail</li>
+                    <li>Instagram</li>
+                    <li>Twitter</li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-rights">
+           Copyright &#169; www.reshoonehru.com | All rights reserved
+        </div>
+    </footer>
+    
+</body>
+</html>
